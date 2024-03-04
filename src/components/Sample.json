@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 62,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Sarah Rumpf-Whitten",
+            "title": "Warren Buffett pays tribute to friend, Charlie Munger as 'architect' of Berkshire Hathaway - Fox Business",
+            "description": "Berkshire Hathaway CEO Warren Buffett wrote in his annual letter that Charlie Munger was the firm's “architect\" while he was the \"general contractor.\"",
+            "url": "https://www.foxbusiness.com/business-leaders/warren-buffett-pays-tribute-friend-charlie-munger-architect-of-berkshire-hathaway",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/GettyImages-1140985597-copy.png?ve=1&tl=1",
+            "publishedAt": "2024-02-25T01:28:00Z",
+            "content": "Berkshire Hathaway's CEO Warren Buffett remembered Charlie Munger, the conglomerate's former vice chairman, as the \"architect\" of the company and as a formidable partner in his first annual letter to… [+3469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTAR.com"
+            },
+            "author": ", Associated Press",
+            "title": "Over 1 million Arizona customers to see rooftop solar fees increase - KTAR.com",
+            "description": "About 1.4 million customers in Arizona will be paying more for electricity now that regulators have approved a rate hike.",
+            "url": "https://ktar.com/story/5564201/over-1-million-arizona-customers-to-see-rooftop-solar-fees-increase/",
+            "urlToImage": "https://ktar.com/wp-content/uploads/2024/02/Arizona_Electric_Rates_24055720568113-scaled-e1708814305756.jpg",
+            "publishedAt": "2024-02-24T23:00:00Z",
+            "content": "PHOENIX (AP) About 1.4 million customers in Arizona will be paying more for electricity now that regulators have approved a rate hike proposed by the states largest utility, and an extra fee for cust… [+3839 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Exclusive: Broadcom nears $3.8 billion sale of remote access unit to KKR - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/technology/broadcom-nears-38-bln-sale-remote-access-unit-kkr-2024-02-24/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-24T22:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsnationnow.com"
+            },
+            "author": "Amanda Hari",
+            "title": "‘I really need to be paid’: Tesla cancels large pie order last minute - NewsNation Now",
+            "description": "A small business owner in Northern California says her pie shop is out thousands of dollars after Tesla unexpectedly canceled an order for thousands of mini pies.",
+            "url": "https://www.newsnationnow.com/us-news/west/tesla-large-pie-order/",
+            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/02/download-2024-02-22T225151.359.png?w=1280",
+            "publishedAt": "2024-02-24T21:49:31Z",
+            "content": "SAN JOSE, Calif. (KRON) A small business owner in Northern California says her pie shop is out thousands of dollars after Tesla unexpectedly canceled an order for thousands of mini pies.\r\nVoahangy Ra… [+1860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ashley Capoot",
+            "title": "UnitedHealth subsidiary Change Healthcare down for a fourth day following cyberattack - CNBC",
+            "description": "Change Healthcare's systems are down for the fourth day in a row after parent company UnitedHealth disclosed a suspected cyberattack.",
+            "url": "https://www.cnbc.com/2024/02/24/unitedhealth-subsidiary-change-healthcare-down-for-a-fourth-day-following-cyberattack.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106023964-1563369934179gettyimages-516917434.jpeg?v=1681211569&w=1920&h=1080",
+            "publishedAt": "2024-02-24T21:24:17Z",
+            "content": "Change Healthcare's systems are down for a fourth straight day after parent company UnitedHealth Group disclosed that a suspected cybersecurity threat actor gained access to part of its information t… [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Takashi Mochizuki, Bloomberg",
+            "title": "Japan kicks in another $4.8 billion for TSMC plant, calls cutting-edge chips ‘extremely essential for the future of industries’ - Fortune",
+            "description": "Japan aims to secure the supply of chips used in everything from automobile production to mobile phones.",
+            "url": "https://fortune.com/2024/02/24/japan-tsmc-plant-subsidies-semiconductors-chips-technology/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-2026710494-e1708807434166.jpg?resize=1200,600",
+            "publishedAt": "2024-02-24T20:52:00Z",
+            "content": "The Japanese government will provide an additional ¥732 billion ($4.86 billion) in subsidies for Taiwan Semiconductor Manufacturing Co. to expand its plant in the country, Economy Minister Ken Saito … [+1634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Olivia Bosar",
+            "title": "Mega Millions jackpot now eighth highest on record and growing - KTLA Los Angeles",
+            "description": "The jackpot has climbed to an estimated $563 million, making it the eighth highest jackpot on record.",
+            "url": "https://ktla.com/news/mega-millions-jackpot-now-eighth-highest-on-record-and-growing/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/02/GettyImages-1585452277.jpg?w=1280",
+            "publishedAt": "2024-02-24T20:27:24Z",
+            "content": "The Mega Millions jackpot has officially claimed a place as one of the top 10 highest jackpots in the game’s history.\r\nWith no tickets matching all five numbers and the Megaball in Friday night’s dra… [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Gabrielle Coppola, Bloomberg",
+            "title": "Jeep cuts prices and expands lineup amid tougher competition and high interest rates: ‘We needed to do something’ - Fortune",
+            "description": "Jeep’s market share fell to 3.92% in the fourth quarter of 2023, down from 5.17% in 2019.",
+            "url": "https://fortune.com/2024/02/24/jeep-cuts-prices-expands-lineup-stellantis-automotive/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1244035617-e1708803056742.jpg?resize=1200,600",
+            "publishedAt": "2024-02-24T19:46:00Z",
+            "content": "Jeep, the crown jewel of Stellantis NVs 14 vehicle brands, will lower prices and add models and features to its lineup this year as it seeks to regain market share lost to squeezed consumers and stif… [+2947 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Elon Musk's Latest Robot Video Looks Like It Was Shot on a Phone From 2002 - Gizmodo",
+            "description": "The blurry video shows Optimus, the robot Tesla first announced three years ago.",
+            "url": "https://gizmodo.com/elon-musks-latest-robot-video-looks-like-it-was-shot-on-1851284228",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e9aa7f70e4b1f4b2b118a51f60054c6e.gif",
+            "publishedAt": "2024-02-24T19:30:00Z",
+            "content": "Elon Musk has shared a new video on Saturday featuring Optimus, the robot Tesla has been working on since 2021. But anyone who tries to watch the video will immediately notice something weird. The cl… [+3217 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Google co-founder Sergey Brin sued over a plane crash that killed two pilots last year - The Verge",
+            "description": "Sergey Brin and Google are named in a lawsuit over the death of one of the pilots who crashed while ferrying his plane from California to Fiji on May 20th, 2023.",
+            "url": "https://www.theverge.com/2024/2/24/24082072/sergey-brin-google-2023-plane-crash-lawsuit",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mYW7nQ44l8t5wSmwzkBRMPFHK6Q=/0x0:4854x3236/1200x628/filters:focal(2427x1618:2428x1619)/cdn.vox-cdn.com/uploads/chorus_asset/file/25302670/632101182.jpg",
+            "publishedAt": "2024-02-24T19:14:25Z",
+            "content": "Google co-founder Sergey Brin sued over a plane crash that killed two pilots last year\r\nGoogle co-founder Sergey Brin sued over a plane crash that killed two pilots last year\r\n / Brin and Google are … [+2092 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Keithen Drury, The Motley Fool",
+            "title": "Better AI Stock: Nvidia or Super Micro Computer? - Yahoo Finance",
+            "description": "Nvidia and Super Micro Computer have been two of the hottest AI investments this year.",
+            "url": "https://www.fool.com/investing/2024/02/24/better-ai-stock-nvidia-or-super-micro-computer/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
+            "urlToImage": "https://media.zenfs.com/en/motleyfool.com/f246acc88cb4d9c38e1d5b62757ef6d3",
+            "publishedAt": "2024-02-24T18:30:00Z",
+            "content": "While artificial intelligence (AI) is widely considered a software program, it requires hardware to develop and power it. This leads to investors looking for \"pick-and-shovel\" style investments, as t… [+4402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Bruce Haring",
+            "title": "McDonald’s Plans Anime Version Of Its Restaurant In L.A., Will Offer New Anime Shorts And Manga - Deadline",
+            "description": "A McDonald's in L.A. will be transformed into a WcDonald's as part of an anime rollout in March",
+            "url": "http://deadline.com/2024/02/mcdonalds-plans-anime-version-of-restaurant-in-l-a-1235836612/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/02/WcD.jpg?w=1024",
+            "publishedAt": "2024-02-24T18:25:00Z",
+            "content": "McDonald’s is celebrating a new anime collaboration by launching a Los Angeles exclusive: WcDonald’s, a version of McDonald’s that’s commonly featured in many popular anime shows. \r\nThe knock-off fir… [+2189 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gabriel Hays",
+            "title": "Millennials lament being unable to afford homes, pay rent: ‘This is insane'’ - Fox News",
+            "description": "Millennials have been racking up millions of views on social media recently complaining about not being able to afford rent in America.",
+            "url": "https://www.foxnews.com/media/millennials-lament-being-unable-afford-homes-pay-rent-insane",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/GettyImages-1497264660.jpg",
+            "publishedAt": "2024-02-24T18:14:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+3395 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Equity Shot: All about the Reddit IPO! - TechCrunch",
+            "description": "Today's special episode of Equity digs into the Reddit IPO filing, the company's revenue and what this all means for companies in the wings.",
+            "url": "https://techcrunch.com/2024/02/24/equity-shot-all-about-the-reddit-ipo/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1246072387.jpg?resize=1200,800",
+            "publishedAt": "2024-02-24T18:05:51Z",
+            "content": "Listen here or wherever you get your podcasts.\r\nHello, and welcome to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\r\nWeekend team, we … [+838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Houston Chronicle"
+            },
+            "author": "Ralph Green",
+            "title": "Houston BBQ joint at gas station among Texas' best, still thriving - Houston Chronicle ",
+            "description": "Houston drivers stopping to fill their tanks at one Cypress area gas station should step inside or they might miss out on some of Texas' best barbecue.",
+            "url": "https://www.houstonchronicle.com/neighborhood/cyfair/article/brisket-rice-new-york-times-18678531.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/26/16/45/22604117/4/rawImage.jpg",
+            "publishedAt": "2024-02-24T17:57:36Z",
+            "content": "Houston drivers stopping to fill their tanks at one Cypress area gas station should be sure to step inside or they might miss out on what critics say is some of the best barbecue in Texas. \r\nBrisket … [+2899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Teslarati"
+            },
+            "author": "Zachary Visconti",
+            "title": "Ford pauses all F-150 Lightning shipments as gas deliveries begin - TESLARATI",
+            "description": "Ford has stopped shiFord has put on pause on sending out dealer shipments of the F-150 Lightning electric pickup, though the company also...",
+            "url": "https://www.teslarati.com/ford-pauses-f-150-lightning/",
+            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/01/f-150-lightning-1-1536x954-1.jpg",
+            "publishedAt": "2024-02-24T17:50:05Z",
+            "content": "Ford has put a pause on sending out dealer shipments of the F-150 Lightning electric pickup, though the company also recently began delivering its 2024 gas versions of the truck.\r\nOn February 9, Ford… [+2636 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alia Shoaib",
+            "title": "Man WFH made $1.8M on BP shares after eavesdropping wife's business calls - Business Insider",
+            "description": "A Texas man pleaded guilty to insider trading after he made $1.76 million from listening in on his wife's work calls in their Houston home.",
+            "url": "https://www.businessinsider.com/man-made-1-8m-bp-shares-listening-wifes-calls-sec-2024-2",
+            "urlToImage": "https://i.insider.com/65da214e90413ab8e1d6a7ba?width=1200&format=jpeg",
+            "publishedAt": "2024-02-24T17:11:00Z",
+            "content": "A Houston man has pleaded guilty to insider trading after he made $1.76 million in illegal profits after listening in on his wife's work calls as they worked from home.\r\nTyler Loudon, 42, admitted to… [+1788 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Esha Day, Bloomberg",
+            "title": "‘Next Tesla’ EV startups struggle as demand sags and once-bullish investors flee: ‘Whoever finds a sponsor has the best chance’ - Fortune",
+            "description": "Rivian’s market value is around $9.6B and Lucid’s is about $6.9B—down from their $153B and $91B valuation peaks, respectively.",
+            "url": "https://fortune.com/2024/02/24/next-tesla-ev-startups-struggle-as-investors-flee/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1228322816-1-e1708789787882.jpg?resize=1200,600",
+            "publishedAt": "2024-02-24T15:51:00Z",
+            "content": "There was a time when the backing of some of the worlds deepest pockets and the mere ambition to sell electric cars was enough to inspire confidence in the stocks of upstarts Rivian Automotive Inc. a… [+4431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Jake Lerch",
+            "title": "Will Palantir Technologies Be a Trillion-Dollar Stock by 2035? - The Motley Fool",
+            "description": "Does Palantir have what it takes to make it into the elite $1 trillion club?",
+            "url": "https://www.fool.com/investing/2024/02/24/will-hot-ticker-be-a-trillion-dollar-stock-by-2035/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/763719/finance-stock-chart-pltr-palantir-technologies.jpg",
+            "publishedAt": "2024-02-24T15:45:00Z",
+            "content": "What's the most exclusive club on Wall Street? I'd argue it's the trillion-dollar club, a group of six stocks, each boasting a valuation above $1 trillion: Microsoft, Apple, Nvidia, Alphabet, Amazon,… [+4728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Life",
+            "title": "We Asked 3 Chefs to Name the Best Boxed Cake Mix and They All Said the Same One - Yahoo Life",
+            "description": null,
+            "url": "https://www.yahoo.com/lifestyle/asked-3-chefs-name-best-153000787.html",
+            "urlToImage": null,
+            "publishedAt": "2024-02-24T15:30:00Z",
+            "content": null
+        }
+    ]
+}
